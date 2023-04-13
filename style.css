@@ -1,7 +1,7 @@
 body{
     font-size: 20px;
     font-family: monospace;
-    background: url(img/good.jpg);
+    background: url("img/bg.jpg");
 }
 
 #container{
