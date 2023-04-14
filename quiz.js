@@ -42,7 +42,7 @@ let questions = [
         choiceC : "JavaScript Library",
         correct : "C"
     },{
-        question : "is this quiz is good(free)?",
+        question : "is this quiz is good(free🥲)?",
         imgSrc : "img/good.gif",
         choiceA : "Yes",
         choiceB : "No",
