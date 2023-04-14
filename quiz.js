@@ -42,10 +42,10 @@ let questions = [
         choiceC : "JavaScript Library",
         correct : "C"
     },{
-        question : "how is looking these eyes",
+        question : "how is looking these eyes?",
         imgSrc : "img/good.gif",
         choiceA : "Scary",
-        choiceB : "Horrifying",
+        choiceB : "G",
         choiceC : "Annoying",
         correct : "C"
     }
